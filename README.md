@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Advanced DMA-Based ESP • Radar • Aimbot Solution</b><br>
-  <sub>PC Steam | Full DMA | No Memory Write</sub>
+  <sub>PC Steam | Full DMA | No Memory Write | 🔗 https://discord.gg/sqxjBunbzW</sub>
 </p>
 
 <p align="center">
