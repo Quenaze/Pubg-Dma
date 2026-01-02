@@ -18,7 +18,7 @@
 
 ## 🚀 Overview
 
- Q PUBG is a **high-performance DMA-based overlay & aimbot system** designed exclusively for **PC Steam PUBG**.
+ Q PUBG is a **high-performance DMA-based overlay & aimbot system** designed exclusively for **PC Steam PUBG** for free.
 
 ✔ No memory writing  
 ✔ Fully external & DMA-based  
