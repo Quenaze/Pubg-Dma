@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/banner.png" alt="PUBG Experience Banner" width="100%">
-</p>
+
 
 <h1 align="center">Q PUBG DMA</h1>
 
