@@ -8,11 +8,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-PC%20Steam-green">
-  <img src="https://img.shields.io/badge/ESP-Full%20Feature-blue">
-  <img src="https://img.shields.io/badge/Aimbot-DMA%20Based-red">
-  <img src="https://img.shields.io/badge/Status-Stable-success">
+  🖥 PC Steam &nbsp;&nbsp;|&nbsp;&nbsp;
+  ⚙ Full DMA &nbsp;&nbsp;|&nbsp;&nbsp;
+  👁 ESP &nbsp;&nbsp;|&nbsp;&nbsp;
+  🎯 Aimbot &nbsp;&nbsp;|&nbsp;&nbsp;
+  🗺 Radar
 </p>
+
+
 
 ---
 
