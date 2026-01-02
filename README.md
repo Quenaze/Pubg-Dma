@@ -1,83 +1,116 @@
-# Q PUBG  – DMA-Based Advanced Overlay & Aimbot
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/00000000/banner.png" alt="PUBG Experience Banner" width="100%">
+</p>
 
-> **Compatible with PC Steam**  
-> High-performance, fully DMA-based PUBG experience with advanced ESP, Radar, and Aimbot systems.  
-> Designed for maximum accuracy, safety, and customization.
+<h1 align="center">Q PUBG DMA</h1>
+
+<p align="center">
+  <b>Advanced DMA-Based ESP • Radar • Aimbot Solution</b><br>
+  <sub>PC Steam | Full DMA | No Memory Write</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-PC%20Steam-green">
+  <img src="https://img.shields.io/badge/ESP-Full%20Feature-blue">
+  <img src="https://img.shields.io/badge/Aimbot-DMA%20Based-red">
+  <img src="https://img.shields.io/badge/Status-Stable-success">
+</p>
 
 ---
 
-## 🔥 Features Overview
+## 🚀 Overview
 
-This project provides a **full DMA solution** for PUBG with no memory writing, ensuring high stability and reduced detection risk.
+**PUBG Experience** is a **high-performance DMA-based overlay & aimbot system** designed exclusively for **PC Steam PUBG**.
+
+✔ No memory writing  
+✔ Fully external & DMA-based  
+✔ Maximum accuracy, safety, and customization  
+
+Built for users who want **clean visuals**, **precise aiming**, and **powerful radar tools**.
 
 ---
 
-## 👁 ESP Features
+## 👁 ESP FEATURES
 
 - Box & Bone ESP  
-- Danger Warnings (Nearby threats & alerts)  
 - Snaplines  
 - Visibility Check  
 - Health Bars  
-- Player Distance Display  
+- Player Distance  
 - Adjustable Render Distance  
-- Customizable Color Profiles  
+- Custom Color Profiles  
+- Danger Warnings (Threat Alerts)  
 - Throwables ESP  
 - Loot & Lootcrate ESP  
 - Vehicle ESP  
 
-### 🗺 Radar System
+---
+
+## 🗺 RADAR SYSTEM
+
+**Fully Customizable Radar Suite**
+
 - MiniMap  
 - BigMap  
 - Web Radar  
 
-**Radar Details:**
-- Fully customizable (team, rank, kill visibility)
-- Built-in local radar via **127.0.0.1**
-- Accessible from a second screen or browser
-- Includes:
-  - Map Radar
-  - Warning Radar
-  - Web Radar
+### Radar Highlights
+- Team, rank & kill visibility  
+- Built-in **Local Network Radar**  
+- Runs on **127.0.0.1**
+- Usable on:
+  - Second monitor
+  - Tablet
+  - Phone
+  - Browser
+
+Includes:
+- Map Radar  
+- Warning Radar  
+- Web Radar  
 
 ---
 
-## 🎯 Aimbot Features
+## 🎯 AIMBOT FEATURES
 
-- **DMA-Based Targeting** for fast & accurate model hit detection  
-- **100% Working Visibility Check**  
-- Custom FOVs & XY Smoothing for all weapon types  
-- Weapon Profiles:
-  - FullAuto
-  - Sniper
-  - Shotgun
-  - Throwables
-- Advanced Recoil Management  
-  - Separate from aimbot
+- **DMA-Based Targeting**
+- Extremely fast & accurate hit detection
+- **100% Working Visibility Check**
+- Custom FOV for each weapon type
+- Advanced XY smoothing system
+
+### Weapon Profiles
+- FullAuto  
+- Sniper  
+- Shotgun  
+- Throwables  
+
+### Advanced Systems
+- Recoil Control (separate from aimbot)
   - Adjustable scale
   - Randomization
-  - Delay control
-- Mortar Aimbot (Auto-aim with Mortar)  
-- AutoShot System (Triggerbot)
-  - Configurable fire intervals
-  - Projectile prediction (grenades)
-- **Full English Menu**
-- Preset Configuration System
+  - Delay system
+- Mortar Aimbot (auto-aim)
+- AutoShot / Triggerbot
+- Projectile prediction (grenades)
+
+✔ Full English Menu  
+✔ Preset Configuration System  
 
 ---
 
-## ⚙ System Requirements
+## ⚙ SYSTEM REQUIREMENTS
 
-- **DMA Device Required**  
-  > Software will NOT run without a DMA device
-- Fully DMA-based architecture  
-  - No memory writing involved
-- ESP displayed on main monitor using **Fuser**
-- Aimbot requires a supported **AIM Device**
+- **DMA Device (Required)**  
+  > Software will NOT work without DMA
+- Fully DMA-based architecture
+- **No memory writing**
+- ESP displayed via **Fuser**
+- Aimbot requires supported AIM device
 
 ---
 
-## 🎮 Supported AIM Devices
+## 🎮 SUPPORTED AIM DEVICES
 
 - Makcu  
 - KMBox B Pro  
@@ -87,32 +120,28 @@ This project provides a **full DMA solution** for PUBG with no memory writing, e
 
 ---
 
-## 🖥 Platform Support
+## 🖥 PLATFORM
 
-- ✔ PC (Steam Version Only)
-
----
-
-## 📌 Important Notes
-
-- This project uses **read-only DMA memory access**
-- Designed for advanced users familiar with DMA setups
-- Proper hardware setup is mandatory for correct operation
+- ✔ PC  
+- ✔ Steam Version Only  
 
 ---
 
-## 💬 Community & Support
+## 💬 COMMUNITY & SUPPORT
 
-Join our Discord for updates, support, and announcements:
+Join our Discord for:
+- Updates  
+- Support  
+- Announcements  
 
 🔗 **https://discord.gg/sqxjBunbzW**
 
 ---
 
-## ⚠ Disclaimer
+## ⚠ DISCLAIMER
 
 This project is provided for **educational and research purposes only**.  
-The author is not responsible for misuse or violations of any game's terms of service.
+The author takes **no responsibility** for misuse or violations of any game's terms of service.
 
 Use at your own risk.
 
