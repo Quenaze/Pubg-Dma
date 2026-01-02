@@ -9,7 +9,7 @@
 
 <p align="center">
   🖥 PC Steam &nbsp;&nbsp;|&nbsp;&nbsp;
-  ⚙ Full DMA &nbsp;&nbsp;|&nbsp;&nbsp;
+  ⚙ DMA &nbsp;&nbsp;|&nbsp;&nbsp;
   👁 ESP &nbsp;&nbsp;|&nbsp;&nbsp;
   🎯 Aimbot &nbsp;&nbsp;|&nbsp;&nbsp;
   🗺 Radar
