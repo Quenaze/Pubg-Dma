@@ -18,7 +18,7 @@
 
 ## 🚀 Overview
 
-**PUBG Experience** is a **high-performance DMA-based overlay & aimbot system** designed exclusively for **PC Steam PUBG**.
+**Q PUBG ** is a **high-performance DMA-based overlay & aimbot system** designed exclusively for **PC Steam PUBG**.
 
 ✔ No memory writing  
 ✔ Fully external & DMA-based  
