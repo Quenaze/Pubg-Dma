@@ -1,10 +1,14 @@
-
-
 <h1 align="center">Q PUBG DMA</h1>
 
 <p align="center">
   <b>Advanced DMA SOFTWARE - ESP • Radar • Aimbot Solution</b><br>
-  <sub> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]((https://discord.gg/sqxjBunbzW))
+  <sub>DMA-based system developed for PC Steam PUBG.</sub>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/sqxjBunbzW">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
@@ -15,13 +19,11 @@
   🗺 Radar
 </p>
 
-
-
 ---
 
 ## 🚀 Overview
 
- Q PUBG is a **high-performance DMA-based overlay & aimbot system** designed exclusively for **PC Steam PUBG** for free.
+**Q PUBG** is a **high-performance DMA-based overlay & aimbot system** designed exclusively for **PC Steam PUBG**.
 
 ✔ No memory writing  
 ✔ Fully external & DMA-based  
@@ -91,7 +93,7 @@ Includes:
   - Adjustable scale
   - Randomization
   - Delay system
-- Mortar Aimbot (auto-aim)
+- Mortar Aimbot
 - AutoShot / Triggerbot
 - Projectile prediction (grenades)
 
@@ -135,7 +137,11 @@ Join our Discord for:
 - Support  
 - Announcements  
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]((https://discord.gg/sqxjBunbzW))
+<p align="center">
+  <a href="https://discord.gg/sqxjBunbzW">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
+  </a>
+</p>
 
 ---
 
@@ -145,5 +151,3 @@ This project is provided for **educational and research purposes only**.
 The author takes **no responsibility** for misuse or violations of any game's terms of service.
 
 Use at your own risk.
-
----
