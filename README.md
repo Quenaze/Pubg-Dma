@@ -1,9 +1,5 @@
 <h1 align="center">Q PUBG DMA</h1>
 
-<p align="center">
-  <b>Advanced DMA SOFTWARE - ESP • Radar • Aimbot Solution</b><br>
-  <sub>DMA-based system developed for PC Steam PUBG.</sub>
-</p>
 
 <p align="center">
   <a href="https://discord.gg/sqxjBunbzW">
@@ -11,96 +7,10 @@
   </a>
 </p>
 
-<p align="center">
-  🖥 PC Steam &nbsp;&nbsp;|&nbsp;&nbsp;
-  ⚙ DMA &nbsp;&nbsp;|&nbsp;&nbsp;
-  👁 ESP &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎯 Aimbot &nbsp;&nbsp;|&nbsp;&nbsp;
-  🗺 Radar
-</p>
 
 ---
 
-## 🚀 Overview
 
-**Q PUBG** is a **high-performance DMA-based overlay & aimbot system** designed exclusively for **PC Steam PUBG**.
-
-✔ No memory writing  
-✔ Fully external & DMA-based  
-✔ Maximum accuracy, safety, and customization  
-
-Built for users who want **clean visuals**, **precise aiming**, and **powerful radar tools**.
-
----
-
-## 👁 ESP FEATURES
-
-- Box & Bone ESP  
-- Snaplines  
-- Visibility Check  
-- Health Bars  
-- Player Distance  
-- Adjustable Render Distance  
-- Custom Color Profiles  
-- Danger Warnings (Threat Alerts)  
-- Throwables ESP  
-- Loot & Lootcrate ESP  
-- Vehicle ESP  
-
----
-
-## 🗺 RADAR SYSTEM
-
-**Fully Customizable Radar Suite**
-
-- MiniMap  
-- BigMap  
-- Web Radar  
-
-### Radar Highlights
-- Team, rank & kill visibility  
-- Built-in **Local Network Radar**  
-- Runs on **127.0.0.1**
-- Usable on:
-  - Second monitor
-  - Tablet
-  - Phone
-  - Browser
-
-Includes:
-- Map Radar  
-- Warning Radar  
-- Web Radar  
-
----
-
-## 🎯 AIMBOT FEATURES
-
-- **DMA-Based Targeting**
-- Extremely fast & accurate hit detection
-- **100% Working Visibility Check**
-- Custom FOV for each weapon type
-- Advanced XY smoothing system
-
-### Weapon Profiles
-- FullAuto  
-- Sniper  
-- Shotgun  
-- Throwables  
-
-### Advanced Systems
-- Recoil Control (separate from aimbot)
-  - Adjustable scale
-  - Randomization
-  - Delay system
-- Mortar Aimbot
-- AutoShot / Triggerbot
-- Projectile prediction (grenades)
-
-✔ Full English Menu  
-✔ Preset Configuration System  
-
----
 
 ## ⚙ SYSTEM REQUIREMENTS
 
@@ -123,12 +33,7 @@ Includes:
 
 ---
 
-## 🖥 PLATFORM
 
-- ✔ PC  
-- ✔ Steam Version Only  
-
----
 
 ## 💬 COMMUNITY & SUPPORT
 
