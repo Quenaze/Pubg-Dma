@@ -3,7 +3,7 @@
 <h1 align="center">Q PUBG DMA</h1>
 
 <p align="center">
-  <b>Advanced DMA-Based ESP • Radar • Aimbot Solution</b><br>
+  <b>Advanced DMA SOFTWARE - ESP • Radar • Aimbot Solution</b><br>
   <sub> 🔗 https://discord.gg/sqxjBunbzW</sub>
 </p>
 
