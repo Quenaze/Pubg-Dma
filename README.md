@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Advanced DMA SOFTWARE - ESP • Radar • Aimbot Solution</b><br>
-  <sub> 🔗 https://discord.gg/sqxjBunbzW</sub>
+  <sub> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]((https://discord.gg/sqxjBunbzW))
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ Join our Discord for:
 - Support  
 - Announcements  
 
-🔗 **https://discord.gg/sqxjBunbzW**
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]((https://discord.gg/sqxjBunbzW))
 
 ---
 
