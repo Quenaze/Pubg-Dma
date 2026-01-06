@@ -12,26 +12,6 @@
 
 
 
-## ⚙ SYSTEM REQUIREMENTS
-
-- **DMA Device (Required)**  
-  > Software will NOT work without DMA
-- Fully DMA-based architecture
-- **No memory writing**
-- ESP displayed via **Fuser**
-- Aimbot requires supported AIM device
-
----
-
-## 🎮 SUPPORTED AIM DEVICES
-
-- Makcu  
-- KMBox B Pro  
-- KMBox Net  
-- Magic Box  
-- Lurker  
-
----
 
 
 
