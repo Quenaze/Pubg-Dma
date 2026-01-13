@@ -1,10 +1,6 @@
 <h1 align="center">Q PUBG DMA</h1>
 
-<p align="center">
-  <a href="https://discord.gg/sqxjBunbzW">
-    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
+
 
 
 ---
