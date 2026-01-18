@@ -5,7 +5,7 @@
 
 
 
-## 🙏 Thank You for Using My Software
+##  Thank You for Using My Software
 
 - **The software is updated whenever I am available.**  
   Please do **not** ask for updates — repeated requests will be ignored.
