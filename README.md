@@ -12,7 +12,7 @@
 
 ---
 
-## Thank You for Using My Software
+## IMPORTANT
 
 - **The software is updated whenever I am available.**  
   Please do **not** ask for updates — repeated requests will be ignored.
