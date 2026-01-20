@@ -79,6 +79,4 @@ terms of service.
 
 - https://github.com/ufrisk/pcileech
 - Scarlet DMA (https://scarlet.technology/)
-- DoubleAI
-- @breadthedev
 - dreamyduck
