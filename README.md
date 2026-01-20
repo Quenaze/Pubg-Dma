@@ -1,11 +1,18 @@
 <h1 align="center">Q PUBG DMA</h1>
 
+<p align="center">
+  <img src="images/Screenshot_2026-01-02_092106.webp" width="45%">
+  <img src="images/Screenshot_2026-01-02_092130.webp" width="45%">
+</p>
 
+<p align="center">
+  <img src="images/Screenshot_2026-01-02_092147.webp" width="45%">
+  <img src="images/Screenshot_2026-01-02_092154.webp" width="45%">
+</p>
 
+---
 
-
-
-##  Thank You for Using My Software
+## Thank You for Using My Software
 
 - **The software is updated whenever I am available.**  
   Please do **not** ask for updates — repeated requests will be ignored.
