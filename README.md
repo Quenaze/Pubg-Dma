@@ -65,6 +65,7 @@ Join our Discord server for:
 
 ---
 
+
 ## ⚠ DISCLAIMER
 
 This project is provided for **educational and research purposes only**.  
@@ -72,3 +73,12 @@ The author takes **no responsibility** for misuse or any violations of a game's
 terms of service.
 
 **Use at your own risk.**
+
+
+## CREDITS
+
+- https://github.com/ufrisk/pcileech
+- Scarlet DMA (https://scarlet.technology/)
+- DoubleAI
+- @breadthedev
+- dreamyduck
